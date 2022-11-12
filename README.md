@@ -11,7 +11,7 @@
 
  ### Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
- I am Ritik Bompilwar, Sophomore at IIIT-Naya Raipur. I have a keen interest in the field of Deep Learning.I am looking forward to solving real-life problems by developing and deploying AI models.
+ I am Ritik Bompilwar, Senior at IIIT-Naya Raipur. I have a keen interest in the field of Deep Learning.I am looking forward to solving real-life problems by developing and deploying AI models.
  
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/RITIK-12">
