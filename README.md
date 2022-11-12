@@ -1,14 +1,4 @@
 
-![About]()
-<p align='center'>
-<a href="https://twitter.com/b_Ritik_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/____r.i.t.i.k/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ritik-bompilwar-6054b818b/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
-
-
-
  ### Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
  I am Ritik Bompilwar, Senior at IIIT-Naya Raipur. I have a keen interest in the field of Deep Learning.I am looking forward to solving real-life problems by developing and deploying AI models.
