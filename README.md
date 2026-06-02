@@ -26,8 +26,6 @@
 <tr><td align="right"><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,threejs" height="38" /></td></tr>
 </table>
 
-<sub><b>Specialized</b> · Gemini · Veo · MCP · LangChain · SigLIP2 · YOLOv8 · Stable Diffusion XL · ONNX · Core ML · TensorFlow Lite</sub>
-
 </div>
 
 ## 🚀 Projects
@@ -35,21 +33,21 @@
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/AdGen"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/adgen.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/AdGen"><img src="https://ritik.io/projects/assets/adgen.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/AdGen">AdGen</a></b><br>
 <sub><code>Gemini</code> <code>Veo</code></sub><br>
 <sub>Multi-agent ad creative studio.</sub><br>
 <sub><a href="https://youtu.be/D1J4whHgDf8">Demo</a> · <a href="https://ritik.io/blog/adgen/">Blog</a></sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/RAGnarok"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/ragnarok.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/RAGnarok"><img src="https://ritik.io/projects/assets/ragnarok.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/RAGnarok">RAGnarok</a></b><br>
 <sub><code>MCP</code> <code>Docker</code></sub><br>
 <sub>Web-search MCP server for open LLMs.</sub><br>
 <sub><a href="https://hub.docker.com/r/ritik12/ragnarok-mcp">Docker</a> · <a href="https://ritik.io/blog/ragnarok/">Blog</a></sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/ProductRec"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/lovif.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/ProductRec"><img src="https://ritik.io/projects/assets/lovif.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/ProductRec">LoViF</a></b><br>
 <sub><code>SigLIP2</code> <code>VLM</code></sub><br>
 <sub>Multimodal VLM for product ratings.</sub><br>
@@ -58,19 +56,19 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/Fusion2Drive"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/fusion2drive.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/Fusion2Drive"><img src="https://ritik.io/projects/assets/fusion2drive.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/Fusion2Drive">Fusion2Drive</a></b><br>
 <sub><code>BEV</code> <code>Waymo</code></sub><br>
 <sub>Camera + LiDAR fusion on Waymo.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/IllumiCAM"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/illumicam.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/IllumiCAM"><img src="https://ritik.io/projects/assets/illumicam.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/IllumiCAM">IllumiCAM</a></b><br>
 <sub><code>Grad-CAM</code> <code>CNN</code></sub><br>
 <sub>Multi-illuminant detection &amp; white balance.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/Llama_RSA"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/llama-rsa.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/Llama_RSA"><img src="https://ritik.io/projects/assets/llama-rsa.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/Llama_RSA">LLM Layer Similarity</a></b><br>
 <sub><code>RSA</code> <code>CKA</code></sub><br>
 <sub>Cross-lingual layer alignment in LLMs.</sub>
@@ -78,20 +76,20 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/DotCanvas"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/dotcanvas.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/DotCanvas"><img src="https://ritik.io/projects/assets/dotcanvas.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/DotCanvas">DotCanvas</a></b><br>
 <sub><code>SDXL</code> <code>Polkadot</code></sub><br>
 <sub>AI-art NFT marketplace on Polkadot.</sub><br>
 <sub><a href="https://www.loom.com/share/d4885e177f374d18a8b2d9ba3e01167b">Demo</a></sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/BayesianUncertainityEstimation"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/bayesian-medical-qa.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/BayesianUncertainityEstimation"><img src="https://ritik.io/projects/assets/bayesian-medical-qa.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/BayesianUncertainityEstimation">Bayesian Medical QA</a></b><br>
 <sub><code>LLMs</code> <code>LoRA</code></sub><br>
 <sub>Uncertainty-aware medical QA.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/AgniAI"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/agniai.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/AgniAI"><img src="https://ritik.io/projects/assets/agniai.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/AgniAI">AgniAI</a></b><br>
 <sub><code>YOLOv8</code> <code>Satellite</code></sub><br>
 <sub>Wildfire detection in satellite imagery.</sub>
@@ -99,19 +97,19 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/Velocity"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/velocity.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/Velocity"><img src="https://ritik.io/projects/assets/velocity.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/Velocity">Velocity</a></b><br>
 <sub><code>Three.js</code> <code>WebGL</code></sub><br>
 <sub>Browser-based 3D racing game.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/CricketShotClassification"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/cricket-shot-classification.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/CricketShotClassification"><img src="https://ritik.io/projects/assets/cricket-shot-classification.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/CricketShotClassification">Cricket Shot Recognition</a></b><br>
 <sub><code>EfficientNet</code> <code>GRU</code></sub><br>
 <sub>CNN + GRU batting-shot classifier.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/uSAR"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/usar.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/uSAR"><img src="https://ritik.io/projects/assets/usar.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/uSAR">uSAR</a></b><br>
 <sub><code>TFLite</code> <code>UAV</code></sub><br>
 <sub>UAV edge detection for search &amp; rescue.</sub>
@@ -119,7 +117,7 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/RITIK-12/HAR"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/har-rf-sensing.webp" width="100%"></a><br>
+<a href="https://github.com/RITIK-12/HAR"><img src="https://ritik.io/projects/assets/har-rf-sensing.webp" width="100%"></a><br>
 <b><a href="https://github.com/RITIK-12/HAR">RF Activity Recognition</a></b><br>
 <sub><code>RF</code> <code>TFLite</code></sub><br>
 <sub>Multimodal HAR from RF sensors.</sub>
