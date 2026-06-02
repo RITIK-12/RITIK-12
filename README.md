@@ -1,33 +1,146 @@
-### Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
 
-I'm **Ritik Bompilwar**, a driven graduate student at Northeastern University pursuing a Master's in Artificial Intelligence. I am passionate about leveraging deep learning and AI technologies to develop innovative solutions that address real-world problems. Currently, I am focused on the development of Vision-Language Models to enhance visual understanding.
+# Ritik Bompilwar
 
-🔭 **I’m currently working on:**
-- Developing Vision-Language Models for advanced visual understanding applications.
-- Exploring the integration of AI with real-time interactive systems.
+### AI Researcher & Engineer
 
-🌱 **I’m currently learning:**
-- Techniques and applications of Vision-Language Models in AI.
-- Scalable cloud architecture to support complex AI models.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Computer+Vision+%C2%B7+Generative+AI+%C2%B7+VLMs;Temporal+Action+Segmentation+%C2%B7+Multi-Agent+RAG)](https://ritik.io)
 
-👯 **I’m looking to collaborate on:**
-- Open Source projects and research in Vision-Language Models and other AI technologies.
-- Projects focusing on the enhancement of AI in visual data interpretation.
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=safari&logoColor=white)](https://ritik.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-bompilwar/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=UvMmCu4AAAAJ)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/ritik12)
 
-### 📫 How to reach me:
-- 📧 [Email](mailto:bompilwar.r@northeastern.edu)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ritik-bompilwar/)
-- 🐱 [GitHub](https://github.com/RITIK-12)
+**MS in Artificial Intelligence (Research) @ Northeastern University** &nbsp;·&nbsp; I build and evaluate multimodal AI systems.
 
-## 🚀 Featured Projects
-<a href="https://github.com/RITIK-12/CricketShotClassification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIK-12&repo=CricketShotClassification&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="CricShot: Cricket Shot Recognition & Similarity Predictor"/>
-</a>
+</div>
 
-<a href="https://github.com/RITIK-12/HAR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIK-12&repo=HAR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Human Activity Recognition using MultiModal Deep Learning"/>
-</a>
+## 🧰 Tech Stack
 
-<a href="https://github.com/RITIK-12/Real-Time-Spotify-Music-Recommendation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIK-12&repo=MusicRecommendation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Real-Time Spotify Music Recommendation"/>
-</a>
+<div align="center">
+
+<table>
+<tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,solidity" height="38" /></td></tr>
+<tr><td align="right"><b>ML&nbsp;/&nbsp;DL</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" height="38" /></td></tr>
+<tr><td align="right"><b>Cloud&nbsp;&&nbsp;Infra</b></td><td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,githubactions,firebase" height="38" /></td></tr>
+<tr><td align="right"><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,threejs" height="38" /></td></tr>
+</table>
+
+<sub><b>Specialized</b> · Gemini · Veo · MCP · LangChain · SigLIP2 · YOLOv8 · Stable Diffusion XL · ONNX · Core ML · TensorFlow Lite</sub>
+
+</div>
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/AdGen"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/adgen.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/AdGen">AdGen</a></b><br>
+<sub><code>Gemini</code> <code>Veo</code></sub><br>
+<sub>Multi-agent ad creative studio.</sub><br>
+<sub><a href="https://youtu.be/D1J4whHgDf8">Demo</a> · <a href="https://ritik.io/blog/adgen/">Blog</a></sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/RAGnarok"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/ragnarok.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/RAGnarok">RAGnarok</a></b><br>
+<sub><code>MCP</code> <code>Docker</code></sub><br>
+<sub>Web-search MCP server for open LLMs.</sub><br>
+<sub><a href="https://hub.docker.com/r/ritik12/ragnarok-mcp">Docker</a> · <a href="https://ritik.io/blog/ragnarok/">Blog</a></sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/ProductRec"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/lovif.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/ProductRec">LoViF</a></b><br>
+<sub><code>SigLIP2</code> <code>VLM</code></sub><br>
+<sub>Multimodal VLM for product ratings.</sub><br>
+<sub><a href="https://huggingface.co/ritik12/ProductRec">Weights</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/Fusion2Drive"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/fusion2drive.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/Fusion2Drive">Fusion2Drive</a></b><br>
+<sub><code>BEV</code> <code>Waymo</code></sub><br>
+<sub>Camera + LiDAR fusion on Waymo.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/IllumiCAM"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/illumicam.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/IllumiCAM">IllumiCAM</a></b><br>
+<sub><code>Grad-CAM</code> <code>CNN</code></sub><br>
+<sub>Multi-illuminant detection &amp; white balance.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/Llama_RSA"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/llama-rsa.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/Llama_RSA">LLM Layer Similarity</a></b><br>
+<sub><code>RSA</code> <code>CKA</code></sub><br>
+<sub>Cross-lingual layer alignment in LLMs.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/DotCanvas"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/dotcanvas.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/DotCanvas">DotCanvas</a></b><br>
+<sub><code>SDXL</code> <code>Polkadot</code></sub><br>
+<sub>AI-art NFT marketplace on Polkadot.</sub><br>
+<sub><a href="https://www.loom.com/share/d4885e177f374d18a8b2d9ba3e01167b">Demo</a></sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/BayesianUncertainityEstimation"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/bayesian-medical-qa.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/BayesianUncertainityEstimation">Bayesian Medical QA</a></b><br>
+<sub><code>LLMs</code> <code>LoRA</code></sub><br>
+<sub>Uncertainty-aware medical QA.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/AgniAI"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/agniai.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/AgniAI">AgniAI</a></b><br>
+<sub><code>YOLOv8</code> <code>Satellite</code></sub><br>
+<sub>Wildfire detection in satellite imagery.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/Velocity"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/velocity.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/Velocity">Velocity</a></b><br>
+<sub><code>Three.js</code> <code>WebGL</code></sub><br>
+<sub>Browser-based 3D racing game.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/CricketShotClassification"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/cricket-shot-classification.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/CricketShotClassification">Cricket Shot Recognition</a></b><br>
+<sub><code>EfficientNet</code> <code>GRU</code></sub><br>
+<sub>CNN + GRU batting-shot classifier.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/uSAR"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/usar.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/uSAR">uSAR</a></b><br>
+<sub><code>TFLite</code> <code>UAV</code></sub><br>
+<sub>UAV edge detection for search &amp; rescue.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/RITIK-12/HAR"><img src="https://raw.githubusercontent.com/RITIK-12/ritik.io/main/public_html/projects/assets/har-rf-sensing.webp" width="100%"></a><br>
+<b><a href="https://github.com/RITIK-12/HAR">RF Activity Recognition</a></b><br>
+<sub><code>RF</code> <code>TFLite</code></sub><br>
+<sub>Multimodal HAR from RF sensors.</sub>
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
+</table>
+
+## 📄 Publications
+
+**[QualiVision: Multi-Modal Video Quality Assessment with Quality-Aware Fusion and Discriminative Learning Strategies](https://openaccess.thecvf.com/content/ICCV2025W/VQualA/papers/Bompilwar_QualiVision_Multi-Modal_Video_Quality_Assessment_with_Quality-Aware_Fusion_and_Discriminative_ICCVW_2025_paper.pdf)** <br>
+<sub>R. Bompilwar, S. Koshatwar · *ICCV 2025 — VQualA Workshop* · 7th on the AIGC Video Quality Assessment Challenge leaderboard</sub>
+
+**[VQualA 2025 Challenge on GenAI-Bench AIGC Video Quality Assessment: Methods and Results](https://ieeexplore.ieee.org/document/11375628/)** <br>
+<sub>Y. Chen, H. Wang, … R. Bompilwar *et al.* · *ICCV 2025 — VQualA Workshop*</sub>
+
+**[tCrop: Thermal Imaging Based Plant Stress Identification Using On-Edge Deep Learning](https://ieeexplore.ieee.org/document/9864547/)** <br>
+<sub>R. Bompilwar, S. P. S. Rathor, D. Das · *IEEE Region 10 Symposium (TENSYMP) 2022*</sub>
+
+**[Safe-to-Fly: An On-board Intelligent Fault Diagnosis System With AutoML for Unmanned Aerial Vehicles](https://ieeexplore.ieee.org/document/9752852/)** <br>
+<sub>R. Bompilwar, S. P. S. Rathor, A. Sinha, D. Das · *IEEE Delhi Section Conference (DELCON) 2022*</sub>
+
+<sub>Full list on [Google Scholar &rarr;](https://scholar.google.com/citations?user=UvMmCu4AAAAJ)</sub>
